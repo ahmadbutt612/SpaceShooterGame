@@ -1,0 +1,189 @@
+﻿  Game.cpp
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(102,73): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(105,69): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(141,67): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,91): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,91): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,91): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,91): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,91): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,60): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,60): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,60): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(146,60): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,93): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,93): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,93): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,93): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,93): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,62): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,62): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,62): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(150,62): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,90): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,90): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,90): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,90): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,59): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,59): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,59): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(155,59): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,91): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,91): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,91): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,91): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,91): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,60): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,60): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,60): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(160,60): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(165,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(165,57): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(165,57): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(165,57): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(165,57): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(170,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(170,57): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(170,57): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(170,57): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(170,57): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,93): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(262,64): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(263,67): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,110): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(271,75): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,114): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(274,77): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,111): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(277,74): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,111): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:         with
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:             T=unsigned int
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:         and
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:         [
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:             T=float
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(280,75): warning C4244:         ]
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(459,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(469,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(498,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(526,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(530,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(570,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(581,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(583,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(790,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(802,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\sfmlProject\Game.cpp(819,20): warning C4018: '<': signed/unsigned mismatch
+  sfmlProject.vcxproj -> C:\Users\emxxx\OneDrive\Desktop\Ahmad\sfmlProject\Debug\sfmlProject.exe
